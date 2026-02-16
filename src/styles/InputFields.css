@@ -1,0 +1,10 @@
+.inputGroup {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+    gap: 4.5rem;
+}
+
+input {
+    margin-left: 5%;
+}

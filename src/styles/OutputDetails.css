@@ -1,0 +1,21 @@
+.usersDetails {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+
+/* Fonts and Styling */
+
+h2 {
+    color: #93c47d;
+}
+
+.duration {
+    color: gray;
+    font-size: small;
+}
+
+.institution {
+    font-weight: bold;        
+}
