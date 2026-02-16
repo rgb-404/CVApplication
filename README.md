@@ -2,6 +2,8 @@
 This is a basic webpage developed using React and Vite where users can create their own resume/CV for job applications.
 Mostly a project to improve my React development skills and coding practices.
 
+Accessible through: https://rgb-404-cvapplication.netlify.app/
+
 ***
 ## Main Deliverables
 1. Designated fields for users to input their contact information for companies to access
